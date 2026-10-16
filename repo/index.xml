@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="icon.png" name="Home Maiden" pubkey="3082050e308202f6a003020102020900d3a8103494708eaf300d06092a864886f70d01010c0500303431143012060355040a130b486f6d65204d616964656e311c301a06035504031313486f6d65204d616964656e20462d44726f69643020170d3236313031343134333233345a180f32303536313030363134333233345a303431143012060355040a130b486f6d65204d616964656e311c301a06035504031313486f6d65204d616964656e20462d44726f696430820222300d06092a864886f70d01010105000382020f003082020a0282020100b7e45f3909c8a1281f311926edd62fa027868d474d8b42c3295ad245883fb5ae2b6613cb6038fec65130ed3cb0e2f39f0c697218cfaab2f9f50af970d35292f819621d483c011e281be0ca027db0780b96b48ef5a67d0d7b3b7a30d028a882a3c0a2a33fbafc4e61dca9bc06aa979d62be96b8cef2784b5702a16362ee731f71a433c816ce43a9199b777a1e702501fde71891f24ae398af8c00cde4c5f27730930203d52aee40b7ce8122291bc819bcc857276be17c24d2603da2d61e5d12391db3cccd4c486a20c10e23908b245b2d52b185a02661a1a2fc15183a71b6cdbbfeb355cc29d44b00bff33998617f64c06c6ad1e7067662828efea43d5f4f7c42339c763083f61a4065ceb7dec779a0c0ca7cedd6b51c8e12107eab7f88e1899c933d048bd2e822983a30619eda11ac40e07a57f575a97d71bfb84c94e17d6f5d26597dc4ee567783bff14dfc285eea507f6b68f0eca43dae2238746de51f27003473bb1567100fd6072392ceeef624f3febbaf15c8cd0b72e3a3484fbb8d0f408f3737603be4ef11bae6b5d96d657023d1d9527dca3f0de5bac85a8ac69f104cc5c2ee959bbcb89efe2cab919f1fe37a57a90ec127b2d53d505fd2d49276861fb93131b5bef4dfbf621531afc1f3e3ad7690527f51bab7245431ea1bae68ca0750b4707c866aecc1c95e8848bc1fd030cc0a464e16561de6fa8aef011f4977a90203010001a321301f301d0603551d0e04160414e27d3f21365d3300e96714e323c7cbb89e93388b300d06092a864886f70d01010c0500038202010008a86b24d7f60dc9b95dbd7afc6df2ac251dca383391340d01fad76a5676b532f39bbf5435d0896f35ac2beea2cc1fb5e08833c87c59b90f9d297b3e6dccf74b5f75137f85e7e7d731d805bab6143b16a7fd1f244cd27f93af5053aeefd3ec75db72af787fe234cc3d048a267846eb896ec965c642a014f1a7fd282c76fcc213448a3a826693e2cc29722c3be8ea6b0e706b34e8b27748eb98ccf666fd5318f71238a2b676a29d05a1d563802faf3354d4b244f120d66a978feaff3d6f20ad7b431bcb894a48efc8e323f5663da06e3352f9f3160dc6c4e0659b66d56085a3c2cddd67249a3b88f15926ab960d233e2b790e505a31df8679c77843198db02cd7605fe22bd6e32cc6520bcd163127d0278b225aa695c83324e778cd83bf11ba5e42024c0cc057524187be05a32386de0113765b96cf1f67e4846ae48f501cf46d78164dbe857b44f51c71e0abca5f9aad2500a6b539d2bd59b5b8b5218c62b907cf36f0a2131777b03ffb4117b6b19aaccec2594d540da62b5da243b591387fb3f082699a00520672c7c9eb27af75afff1fff069eddc6c85479e9da66b026c5965ed9225777fa5482160fba99ce371c5a4f646d79dbc7bf17f03db1d7d141934953491fd381f7ac59877a21d0236f38df3fda4bb6798115b91ff5f1c0f5fa777cd1984053815b542b62880bb849032cce952e1147db1644bf6b7cd61eb6b30af1" timestamp="1792118135" url="https://angelogcapra.github.io/home-maiden-fdroid/repo" version="20002">
+		<description>Repositório do app Android do Home Maiden. Precisa de uma conta num sistema Home Maiden.</description>
+	</repo>
+	<application id="com.br.homemaiden.app">
+		<id>com.br.homemaiden.app</id>
+		<added>2026-10-14</added>
+		<lastupdated>2026-10-16</lastupdated>
+		<name>Home Maiden</name>
+		<summary>Contas da casa, gastos do mês e a captura das notificações dos bancos</summary>
+		<desc>O app do Home Maiden, o sistema de contas da casa.
+
+* Lê as notificações do Nubank, do Mercado Pago e do Sicredi e manda as compras para a
+  caixa de entrada da sua conta, onde você confirma cada uma.
+* Mostra as contas e os gastos do mês, inclusive sem rede.
+* Avisa das contas que vencem, das compras capturadas e dos alertas de segurança.
+
+Precisa de uma conta num sistema Home Maiden, que o dono do sistema cria para você. O app
+pede o endereço do sistema na primeira abertura.</desc>
+		<license>MIT</license>
+		<categories>Money</categories>
+		<category>Money</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<author>Angelo</author>
+		<marketversion></marketversion>
+		<marketvercode>12401</marketvercode>
+		<package>
+			<version>1.24.1</version>
+			<versioncode>12401</versioncode>
+			<apkname>home-maiden-v1.24.1.apk</apkname>
+			<hash type="sha256">7f5a6b4ac8ca06c1373bd41dd6c4d8d1a333e9634c02737166011526427fb466</hash>
+			<size>32218889</size>
+			<sdkver>31</sdkver>
+			<targetSdkVersion>37</targetSdkVersion>
+			<added>2026-10-16</added>
+			<sig>f2db6179eeeeda5492466ccde7883953</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,com.br.homemaiden.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.google.android.c2dm.permission.RECEIVE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.24.0</version>
+			<versioncode>12400</versioncode>
+			<apkname>home-maiden-v1.24.0.apk</apkname>
+			<hash type="sha256">397b60dd5b35e404e6284e475aeaaff8988997fdc0288fc5f972127708fdca97</hash>
+			<size>32218889</size>
+			<sdkver>31</sdkver>
+			<targetSdkVersion>37</targetSdkVersion>
+			<added>2026-10-15</added>
+			<sig>f2db6179eeeeda5492466ccde7883953</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,com.br.homemaiden.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.google.android.c2dm.permission.RECEIVE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.23.0</version>
+			<versioncode>12300</versioncode>
+			<apkname>home-maiden-v1.23.0.apk</apkname>
+			<hash type="sha256">535ae2fe62e00dd9d58835b078381f4b51a920d0b955f0857bad3d2023305f08</hash>
+			<size>32152905</size>
+			<sdkver>31</sdkver>
+			<targetSdkVersion>37</targetSdkVersion>
+			<added>2026-10-14</added>
+			<sig>f2db6179eeeeda5492466ccde7883953</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,com.br.homemaiden.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,com.google.android.c2dm.permission.RECEIVE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
+</fdroid>

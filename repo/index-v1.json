@@ -1,0 +1,220 @@
+{
+  "repo": {
+    "timestamp": 1792118135000,
+    "version": 20002,
+    "name": "Home Maiden",
+    "icon": "icon.png",
+    "address": "https://angelogcapra.github.io/home-maiden-fdroid/repo",
+    "description": "Reposit\u00f3rio do app Android do Home Maiden. Precisa de uma conta num sistema Home Maiden."
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "authorName": "Angelo",
+      "categories": [
+        "Money"
+      ],
+      "suggestedVersionCode": "12401",
+      "description": "O app do Home Maiden, o sistema de contas da casa.\n\n* L\u00ea as notifica\u00e7\u00f5es do Nubank, do Mercado Pago e do Sicredi e manda as compras para a\n  caixa de entrada da sua conta, onde voc\u00ea confirma cada uma.\n* Mostra as contas e os gastos do m\u00eas, inclusive sem rede.\n* Avisa das contas que vencem, das compras capturadas e dos alertas de seguran\u00e7a.\n\nPrecisa de uma conta num sistema Home Maiden, que o dono do sistema cria para voc\u00ea. O app\npede o endere\u00e7o do sistema na primeira abertura.",
+      "license": "MIT",
+      "name": "Home Maiden",
+      "summary": "Contas da casa, gastos do m\u00eas e a captura das notifica\u00e7\u00f5es dos bancos",
+      "added": 1792002605000,
+      "packageName": "com.br.homemaiden.app",
+      "lastUpdated": 1792118135000
+    }
+  ],
+  "packages": {
+    "com.br.homemaiden.app": [
+      {
+        "added": 1792118135000,
+        "apkName": "home-maiden-v1.24.1.apk",
+        "hash": "7f5a6b4ac8ca06c1373bd41dd6c4d8d1a333e9634c02737166011526427fb466",
+        "hashType": "sha256",
+        "minSdkVersion": 31,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.br.homemaiden.app",
+        "sig": "f2db6179eeeeda5492466ccde7883953",
+        "signer": "c83a512862b29ccd2b211570848ea541f712c892bc359a3a2a82feed541da1f1",
+        "size": 32218889,
+        "targetSdkVersion": 37,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "com.br.homemaiden.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 12401,
+        "versionName": "1.24.1"
+      },
+      {
+        "added": 1792083673000,
+        "apkName": "home-maiden-v1.24.0.apk",
+        "hash": "397b60dd5b35e404e6284e475aeaaff8988997fdc0288fc5f972127708fdca97",
+        "hashType": "sha256",
+        "minSdkVersion": 31,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.br.homemaiden.app",
+        "sig": "f2db6179eeeeda5492466ccde7883953",
+        "signer": "c83a512862b29ccd2b211570848ea541f712c892bc359a3a2a82feed541da1f1",
+        "size": 32218889,
+        "targetSdkVersion": 37,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "com.br.homemaiden.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 12400,
+        "versionName": "1.24.0"
+      },
+      {
+        "added": 1792002605000,
+        "apkName": "home-maiden-v1.23.0.apk",
+        "hash": "535ae2fe62e00dd9d58835b078381f4b51a920d0b955f0857bad3d2023305f08",
+        "hashType": "sha256",
+        "minSdkVersion": 31,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.br.homemaiden.app",
+        "sig": "f2db6179eeeeda5492466ccde7883953",
+        "signer": "c83a512862b29ccd2b211570848ea541f712c892bc359a3a2a82feed541da1f1",
+        "size": 32152905,
+        "targetSdkVersion": 37,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "com.br.homemaiden.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 12300,
+        "versionName": "1.23.0"
+      }
+    ]
+  }
+}
