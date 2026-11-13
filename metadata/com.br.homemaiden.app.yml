@@ -1,0 +1,20 @@
+Categories:
+  - Money
+License: MIT
+AuthorName: Angelo
+
+Name: Home Maiden
+Summary: Contas da casa, gastos do mês e a captura das notificações dos bancos
+Description: |-
+  O app do Home Maiden, o sistema de contas da casa.
+
+  * Lê as notificações do Nubank, do Mercado Pago e do Sicredi e manda as compras para a
+    caixa de entrada da sua conta, onde você confirma cada uma.
+  * Mostra as contas e os gastos do mês, inclusive sem rede.
+  * Avisa das contas que vencem, das compras capturadas e dos alertas de segurança.
+
+  Precisa de uma conta num sistema Home Maiden, que o dono do sistema cria para você. O app
+  pede o endereço do sistema na primeira abertura.
+
+AutoUpdateMode: None
+UpdateCheckMode: None

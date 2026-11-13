@@ -1,0 +1,6 @@
+# Nunca versionados: as senhas e a chave do índice moram nos secrets do Home-Maiden.
+config.yml
+*.jks
+*.keystore
+keystore.p12
+tmp/
