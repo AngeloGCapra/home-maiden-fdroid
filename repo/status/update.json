@@ -1,0 +1,45 @@
+{
+  "/etc/issue.net": "Ubuntu 26.04.1 LTS",
+  "antiFeatures": {},
+  "apksigner": "/usr/local/lib/android/sdk/build-tools/37.0.0/apksigner",
+  "archivePolicy0": [],
+  "commandLine": [
+    "/opt/hostedtoolcache/Python/3.12.16/x64/bin/fdroid update",
+    "--pretty"
+  ],
+  "disabled": [],
+  "endTimestamp": 1795528390114,
+  "failedBuilds": {},
+  "fdroiddata": {
+    "commitId": "7f589ea4d556bb3d65d77f24eff6866439e05cf3",
+    "isDirty": true,
+    "modifiedFiles": [
+      "repo/home-maiden-v1.26.0.apk"
+    ],
+    "untrackedFiles": [
+      "repo/home-maiden-v1.29.0.apk"
+    ]
+  },
+  "jarsigner": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/21.0.13-9/x64/bin/jarsigner",
+  "keytool": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/21.0.13-9/x64/bin/keytool",
+  "needsUpdate": [
+    "com.br.homemaiden.app"
+  ],
+  "noPackages": [
+    "com.br.homemaiden.app"
+  ],
+  "noUpdateCheck": [
+    "com.br.homemaiden.app"
+  ],
+  "stages": {
+    "delete_disabled_builds": 1795528380678,
+    "index.make repo": 1795528385516,
+    "prepare_apps repo": 1795528385515,
+    "process_apks": 1795528380678,
+    "read_added_date_from_all_apks": 1795528385515,
+    "remove_apks": 1795528385511,
+    "scan_repo_files": 1795528385511
+  },
+  "startTimestamp": 1795528380000,
+  "subcommand": "update"
+}
